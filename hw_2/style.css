@@ -1,0 +1,37 @@
+/* * {
+    color:darkmagenta;
+} */
+
+p{
+    color: darkmagenta;
+    font-size: 15px;
+}
+
+#ONE{
+    color:darkred;
+}
+
+
+.paragraph{
+    color: darkblue;
+
+}
+[name="name"]{
+    border: 1px solid green
+}
+
+[link]{
+    color:red
+}
+
+.container p{
+    color:rgb(238, 21, 184)
+}
+
+.container > p {
+    color:rgb(4, 82, 85)
+}
+
+input + a {
+    color: black
+}
