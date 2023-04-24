@@ -1,0 +1,21 @@
+div{
+    width: 500px;
+    height: auto;
+    background-color: blanchedalmond;
+}
+
+
+p{
+    color:crimson;
+    text-align: justify;
+    text-decoration: overline;
+    text-indent: 46px;
+    text-transform: capitalize;
+    word-spacing: 26px;
+    /* letter-spacing: 6px; */
+    line-height: 100%;
+}
+
+a{
+    text-decoration: none;
+}

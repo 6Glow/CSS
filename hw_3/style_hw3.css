@@ -1,0 +1,13 @@
+p{
+    width: 636px;
+    text-align: center;
+    text-decoration: underline crimson;
+    line-height: 60px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    
+}
