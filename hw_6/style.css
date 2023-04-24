@@ -1,0 +1,15 @@
+.big {
+    width: 1200px;
+    height: 900px;
+    background-image: url(./photo_6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+.container {
+    height: 160px;
+}

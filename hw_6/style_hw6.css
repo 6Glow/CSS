@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    
+    
+}
+
+div{
+    height: 400px;
+    width: 1900px;
+    background-image: url(./img/Lorem-Ipsum.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
