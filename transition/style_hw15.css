@@ -1,0 +1,20 @@
+.box {
+    font-size: 20px;
+    background-color: darkred;
+    transition-property: initial;
+    transition-duration: 1500ms;
+    transition-timing-function: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+    transition-delay: 200ms
+}
+
+
+.box:hover{
+    background-color: darkgreen;
+    color: darkgray;
+
+}
+
+.par:hover{
+   color: yellow;
+
+}

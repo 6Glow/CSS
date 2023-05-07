@@ -1,0 +1,15 @@
+.btn {
+    padding: 10px 20px;
+    background-color: aqua;
+    /* transition: all 500ms linear 0.5s; */
+    transition-property: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 500ms
+}
+
+.btn:hover{
+    background-color: blue;
+    color: white;
+
+}
