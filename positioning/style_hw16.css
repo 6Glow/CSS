@@ -1,0 +1,56 @@
+.outer {
+    background-color: beige;
+    height: 2500px;
+}
+
+
+img {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+}
+
+
+.container{
+    margin: 100px auto;
+    width: 900px;
+    height: 1500px;
+    border: 1px solid darkorchid;
+    position: relative;
+}
+
+.circle {
+    background-color: wheat;
+    border: 0.1875em solid lightcoral;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 70px;
+    right: 380px;
+    left: 450px;
+}
+
+
+.box{
+    width: 250px;
+    height: 150px;
+    position: sticky;
+    top: 2500px;
+    left: 900px;
+    border: 1px solid darkorchid;
+    overflow: scroll;
+}
+
+
+.second {
+    width: 50%;
+    height: 50%;
+    
+    position: sticky;
+    left: 120px; 
+    top: -150px;
+}
+
