@@ -1,0 +1,46 @@
+a {
+    text-decoration: none;
+    font-weight: 700px;
+}
+
+a:hover{
+    color :lightgreen
+}
+
+.btn:hover{
+    background-color: darkorange;
+}
+
+
+a:active{
+    color: blue
+}
+
+a:visited {
+    color: grey
+}
+
+input:focus{
+    outline: none;
+    border:1.5px solid darkgrey;
+}
+
+/* li:first-child{
+    color:aqua;
+    font-weight: 900;
+}
+
+li:last-child{
+    color:blue;
+    font-weight: 900;
+} */
+
+li:nth-child(odd){
+    color:blueviolet;
+    font-weight: 600;
+}
+
+li:nth-child(even){
+    color: darkcyan;
+    font-weight: 600;
+}

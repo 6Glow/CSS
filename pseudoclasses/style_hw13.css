@@ -1,0 +1,35 @@
+a{
+    font-weight: 500;
+    font-size: 20;
+    text-decoration: none;
+    color: black;
+}
+
+
+.second_a:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+input:focus{
+    outline: none;
+    border: 2px solid purple;
+}
+
+p:first-child{
+    font-size: 18px;
+    font-weight: 300;
+    color: orange;
+}
+
+p:nth-child(2){
+    font-size: 20px;
+    font-weight: 900;
+    color: green;
+}
+
+p:last-child{
+    font-size: 14px;
+    font-weight: 500;
+    color: lightblue;
+}
