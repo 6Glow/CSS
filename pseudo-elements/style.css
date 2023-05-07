@@ -1,0 +1,44 @@
+/* p::first-line {
+    color: darkslateblue;
+}
+
+p::first-letter {
+    color: darkblue;
+    font-size: 40px;
+    font-weight: 700;
+
+} */
+
+p::before {
+    content: ">";
+    color: black;
+    font-weight: 900;
+    font-size: 24px;
+
+}
+
+p::after{
+    content:"<";
+    color: black;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+ul li {
+    list-style: none;
+}
+
+li{
+    position: relative;
+}
+
+
+li::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-color: brown;
+    border-radius: 73px;
+    
+}

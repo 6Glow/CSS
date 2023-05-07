@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+ul li {
+    list-style: none;
+}
+li{
+    position: relative;
+}
+li::before{
+    content: "";
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-image: url(svg/icons8-menu.svg);
+    
+}
+a:hover{
+    color:black;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-color: darkseagreen;
+    border-radius: 73px;
+    padding: 10px;
+}
