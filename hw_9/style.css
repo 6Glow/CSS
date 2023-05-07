@@ -1,0 +1,16 @@
+body{
+    width: 50%;
+    height: 100%;
+}
+
+
+.box{
+    width: 50vmax;
+    height: 50vmin;
+    background-color: rgb(99, 99, 175);
+    margin: 30px;
+}
+
+.text {
+    font-size: 63vw;
+}
