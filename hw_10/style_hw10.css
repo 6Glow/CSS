@@ -1,0 +1,40 @@
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* object-position: ; */
+}
+
+div.container1 {
+    padding-left: 16px;
+    padding-top: 26px;
+    padding-bottom: 36px;
+    padding-right: 46px;
+    border: 1px solid darkorchid;
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+
+div.container2 {
+    width: 200px;
+    height: 200px;
+    padding-left: 63px;
+    padding-top: 0px;
+    padding-bottom: 26px;
+    padding-right: 16px;
+    border: 1px solid darkblue;
+
+}
+
+div.container3 {
+    width: 200px;
+    height: 200px;
+    padding-top: 73px;
+    padding-bottom: 36px;
+    padding-right: 6px;
+    padding-left: 36px;
+    border: 1px solid darkcyan;
+}
